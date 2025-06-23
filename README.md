@@ -45,4 +45,4 @@ With a few exceptions due to human error, most chatlogs relating to the followin
 > [!TIP]
 > The archive can be viewed in its raw format on GitHub, but is best viewed via the GitHub Pages deployment using a desktop web browser.
 
-[Click Here for the Archive](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
+[Click Here for the Archive](https://missthesnow.github.io/tomojiArchive/)
