@@ -25,12 +25,12 @@ With a few exceptions due to human error, most chatlogs relating to the followin
 - Tomosei Himeji
 - Tsubaki Nagure
 
-[^1]: Not the canon character. Chatlogs from Kōji "Zero" Yōgai as the consciousness inhabiting Alan Mido's body.\
-[^2]: Canon character played by Eset\
-[^3]: Canon character played by Mis\
+[^1]: Not the canon character. Chatlogs from Kōji "Zero" Yōgai as the consciousness inhabiting Alan Mido's body.  
+[^2]: Canon character played by Eset  
+[^3]: Canon character played by Mis  
 [^4]: Canon character played by Eset
 
-[!NOTE]
+> [!NOTE]
 > The archived chats are categorized as they were organized originally on the server with subcategories for the Main Campus, Darkwick Houses, and Social Media. Additionally, I exported some informational channels that I will make available once I have ensured there is no personal information contained within them.
 
 ### Disclaimers
