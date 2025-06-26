@@ -22,6 +22,7 @@ With a few exceptions due to human error, most chatlogs relating to the followin
 - Rui Mizuki[^4]
 - Ryūnosuke Mitsurugi
 - Sterling Atlas
+- Tohma Ishibashi[^5]
 - Tomosei Himeji
 - Tsubaki Nagure
 
@@ -29,6 +30,7 @@ With a few exceptions due to human error, most chatlogs relating to the followin
 [^2]: Canon character played by Eset  
 [^3]: Canon character played by Mis  
 [^4]: Canon character played by Eset
+[^5]: Canon character briefly played by Mis, exclusively archived involved threads.
 
 > [!NOTE]
 > The archived chats are categorized as they were organized originally on the server with subcategories for the Main Campus, Darkwick Houses, and Social Media. Additionally, I exported some informational channels that I will make available once I have ensured there is no personal information contained within them.
